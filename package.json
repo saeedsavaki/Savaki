@@ -14,5 +14,6 @@
     "node": ">=18"
   },
   "author": "Savaki",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true
 }

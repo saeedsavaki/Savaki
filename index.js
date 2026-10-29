@@ -4,6 +4,7 @@
  * ====================================================================
  * Brand: Savaki (https://t.me/saeedsavaki)
  * Channel: Savaki (https://t.me/saeedsavaki)
+ * Version: 1.0.0
  * Replit edition (import from GitHub, then Publish). Railway is still detected as a fallback.
  * Replit: Import from GitHub -> Publish (Reserved VM or Autoscale) -> https://<name>.replit.app/savaki
  * ====================================================================
